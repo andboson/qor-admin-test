@@ -8,13 +8,13 @@ import (
 	"github.com/qor/validations"
 	"github.com/qor/sorting"
 	"github.com/qor/slug"
-	"github.com/qor/publish"
+	//"github.com/qor/publish"
 )
 
 type Category struct {
 	gorm.Model
 	l10n.Locale
-	publish.Status
+	//publish.Status
 	sorting.Sorting  `json:"sort_id"`
 	Name         string    `json:"name"`
 	NameWithSlug slug.Slug    `l10n:"sync" json:"slug"`
