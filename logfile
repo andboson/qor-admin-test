@@ -1,0 +1,2426 @@
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 277.68ms
+11111
+2222
+Finish [POST] /admin/workers Took 337.18ms
+Finish [GET] /admin/workers Took 164.93ms
+Finish [GET] /admin/workers Took 64.95ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 58.96ms
+Finish [GET] /admin/workers/70 Took 65.55ms
+Finish [GET] /admin/workers Took 53.95ms
+Finish [GET] /admin/workers/70 Took 40.80ms
+Finish [DELETE] /admin/workers/70 Took 71.05ms
+Finish [GET] /admin/workers/70 Took 32.34ms
+Finish [GET] /admin/workers Took 62.71ms
+Finish [GET] /admin/workers/new Took 57.34ms
+11111
+2222
+Finish [POST] /admin/workers Took 225.68ms
+Finish [GET] /admin/workers Took 68.47ms
+Finish [GET] /admin/workers Took 81.72ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 72.18ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/71 Took 51.60ms
+Finish [DELETE] /admin/workers/71 Took 110.88ms
+Finish [GET] /admin/workers/71 Took 52.02ms
+Finish [GET] /admin/workers Took 109.08ms
+Finish [GET] /admin/workers/new Took 66.16ms
+Finish [POST] /admin/workers Took 205.52ms
+Finish [GET] /admin/workers Took 73.87ms
+Finish [GET] /admin/workers Took 80.02ms
+Finish [GET] /admin/workers Took 67.34ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 66.92ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/72 Took 53.23ms
+Finish [DELETE] /admin/workers/72 Took 85.58ms
+Finish [GET] /admin/workers/72 Took 36.54ms
+Finish [GET] /admin/workers Took 101.24ms
+Finish [GET] /admin/workers/new Took 59.75ms
+11111
+222
+Finish [POST] /admin/workers Took 259.56ms
+Finish [GET] /admin/workers Took 87.27ms
+Finish [GET] /admin/workers Took 91.32ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 91.97ms
+Finish [GET] /admin/workers/73 Took 25.51ms
+Finish [GET] /admin/workers Took 74.80ms
+Finish [GET] /admin/workers/73 Took 22.49ms
+Finish [GET] /admin/workers Took 74.42ms
+Finish [GET] /admin/workers/73 Took 27.83ms
+Finish [GET] /admin/workers Took 97.54ms
+Finish [GET] /admin/workers/73 Took 34.64ms
+11111
+222
+Finish [POST] /admin/workers/73/run Took 89.16ms
+Finish [GET] /admin/workers Took 81.66ms
+Finish [GET] /admin/workers Took 102.35ms
+Finish [GET] /admin/workers/74 Took 53.29ms
+Finish [GET] /admin/workers/73 Took 23.69ms
+Finish [DELETE] /admin/workers/73 Took 202.28ms
+Finish [GET] /admin/workers/73 Took 53.06ms
+Finish [GET] /admin/workers Took 135.16ms
+Finish [GET] /admin/workers/74 Took 47.89ms
+11111
+222
+Finish [PUT] /admin/workers/74 Took 171.82ms
+Finish [GET] /admin/workers Took 83.75ms
+Finish [GET] /admin/workers/73 Took 23.55ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/74 Took 23.99ms
+Finish [GET] /admin/workers/74 Took 25.96ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 80.44ms
+Finish [GET] /admin/workers/new Took 61.93ms
+11111
+222
+Finish [POST] /admin/workers Took 234.79ms
+Finish [GET] /admin/workers Took 100.76ms
+Finish [GET] /admin/workers Took 135.68ms
+Finish [GET] /admin/workers Took 88.82ms
+Finish [GET] /admin/workers/75 Took 37.98ms
+Finish [GET] /admin/workers Took 89.17ms
+Finish [GET] /admin/workers/75 Took 50.42ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/75 Took 20.28ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 111.15ms
+Finish [GET] /admin/workers/75 Took 25.47ms
+Finish [GET] /admin/workers/74 Took 31.93ms
+Finish [DELETE] /admin/workers/74 Took 69.72ms
+Finish [GET] /admin/workers/74 Took 34.02ms
+Finish [GET] /admin/workers Took 111.76ms
+Finish [GET] /admin/workers/75 Took 24.89ms
+Finish [DELETE] /admin/workers/75 Took 134.49ms
+Finish [GET] /admin/workers/75 Took 34.09ms
+Finish [GET] /admin/workers Took 101.91ms
+Finish [GET] /admin/workers/74 Took 19.54ms
+Finish [DELETE] /admin/workers/74 Took 59.31ms
+Finish [GET] /admin/workers/74 Took 37.08ms
+Finish [GET] /admin/workers Took 105.02ms
+Finish [GET] /admin/workers/74 Took 28.22ms
+Finish [DELETE] /admin/workers/74 Took 83.90ms
+Finish [GET] /admin/workers/74 Took 33.83ms
+Finish [GET] /admin/workers Took 92.84ms
+Finish [GET] /admin/workers/74 Took 24.15ms
+Finish [DELETE] /admin/workers/74 Took 59.90ms
+Finish [GET] /admin/workers/74 Took 28.47ms
+Finish [GET] /admin/workers Took 117.88ms
+Finish [GET] /admin/workers/74 Took 21.56ms
+Finish [DELETE] /admin/workers/74 Took 54.42ms
+Finish [GET] /admin/workers/74 Took 39.57ms
+Finish [GET] /admin/workers Took 103.71ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 71.99ms
+Finish [POST] /admin/workers Took 215.81ms
+Finish [GET] /admin/workers Took 131.01ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 145.86ms
+Finish [GET] /admin/workers/76 Took 21.43ms
+Finish [GET] /admin/workers/76 Took 48.45ms
+Finish [GET] /admin/workers Took 92.47ms
+Finish [GET] /admin/workers/76 Took 24.03ms
+Finish [GET] /admin/workers/76 Took 35.10ms
+Finish [GET] /admin/workers/76 Took 27.71ms
+Finish [GET] /admin/workers/76 Took 25.91ms
+Finish [GET] /admin/workers/76 Took 28.23ms
+Finish [GET] /admin/workers/76 Took 31.87ms
+Finish [GET] /admin/workers/76 Took 23.17ms
+Finish [GET] /admin/workers/76 Took 26.97ms
+Finish [GET] /admin/workers/76 Took 26.72ms
+Finish [GET] /admin/workers/76 Took 37.33ms
+Finish [GET] /admin/workers/new Took 65.31ms
+Finish [POST] /admin/workers Took 155.94ms
+Finish [GET] /admin/workers Took 104.02ms
+Finish [GET] /admin/workers Took 131.16ms
+Finish [GET] /admin/workers/new Took 62.54ms
+Finish [POST] /admin/workers Took 200.08ms
+Finish [GET] /admin/workers Took 106.07ms
+Finish [GET] /admin/workers Took 154.19ms
+Finish [GET] /admin/workers/78 Took 47.77ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 120.62ms
+Finish [GET] /admin/workers Took 121.07ms
+Finish [GET] /admin/workers/new Took 65.30ms
+Finish [POST] /admin/workers Took 279.42ms
+Finish [GET] /admin/workers Took 114.66ms
+Finish [GET] /admin/workers Took 129.00ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 135.56ms
+Finish [GET] /admin/workers/79 Took 40.63ms
+Finish [PUT] /admin/workers/79 Took 152.70ms
+Finish [GET] /admin/workers Took 127.37ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/79 Took 42.69ms
+----------%!(EXTRA string=August, time.Month=August)
+Finish [PUT] /admin/workers/79 Took 127.86ms
+Finish [GET] /admin/workers Took 145.78ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/79 Took 52.75ms
+---------- %!d(string=August)  8
+Finish [PUT] /admin/workers/79 Took 129.46ms
+Finish [GET] /admin/workers Took 113.74ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/79 Took 43.75ms
+Finish [PUT] /admin/workers/79 Took 159.94ms
+Finish [GET] /admin/workers Took 142.95ms
+Finish [GET] /admin/workers/79 Took 37.41ms
+Finish [DELETE] /admin/workers/79 Took 107.50ms
+Finish [GET] /admin/workers/79 Took 23.81ms
+Finish [GET] /admin/workers Took 127.24ms
+Finish [GET] /admin/workers/78 Took 39.84ms
+Finish [GET] /admin/workers/78 Took 51.25ms
+Finish [DELETE] /admin/workers/78 Took 63.49ms
+Finish [GET] /admin/workers/78 Took 28.69ms
+Finish [GET] /admin/workers Took 133.16ms
+Finish [GET] /admin/workers/75 Took 24.05ms
+Finish [GET] /admin/workers Took 33.02ms
+Finish [GET] /admin/workers/new Took 55.87ms
+Finish [POST] /admin/workers Took 221.72ms
+Finish [GET] /admin/workers Took 44.77ms
+Finish [GET] /admin/workers Took 51.12ms
+Finish [GET] /admin/workers/new Took 58.05ms
+Finish [POST] /admin/workers Took 175.42ms
+Finish [GET] /admin/workers Took 44.20ms
+Finish [GET] /admin/workers Took 50.38ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/80 Took 40.34ms
+Finish [GET] /admin/workers/81 Took 20.82ms
+Finish [GET] /admin/workers/81 Took 39.21ms
+Finish [GET] /admin/workers/81 Took 23.56ms
+Finish [GET] /admin/workers/81 Took 24.82ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 68.04ms
+Finish [POST] /admin/workers Took 219.90ms
+Finish [GET] /admin/workers Took 42.57ms
+Finish [GET] /admin/workers Took 44.12ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 68.44ms
+Finish [POST] /admin/workers Took 240.80ms
+Finish [GET] /admin/workers Took 47.25ms
+Finish [GET] /admin/workers Took 49.25ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/82 Took 31.82ms
+Finish [GET] /admin/workers/83 Took 26.58ms
+Finish [GET] /admin/workers/new Took 61.08ms
+Finish [POST] /admin/workers Took 218.82ms
+Finish [GET] /admin/workers Took 49.78ms
+Finish [GET] /admin/workers Took 65.40ms
+Finish [GET] /admin/workers/84 Took 40.19ms
+Finish [PUT] /admin/workers/84 Took 293.68ms
+Finish [GET] /admin/workers Took 50.19ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/84 Took 21.92ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 67.98ms
+Finish [POST] /admin/workers Took 186.24ms
+Finish [GET] /admin/workers Took 61.35ms
+Finish [GET] /admin/workers Took 69.55ms
+Finish [GET] /admin/workers/85 Took 46.63ms
+Finish [GET] /admin/workers/85 Took 42.50ms
+Finish [DELETE] /admin/workers/85 Took 179.37ms
+Finish [GET] /admin/workers/85 Took 25.95ms
+Finish [GET] /admin/workers Took 67.91ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 61.03ms
+Finish [POST] /admin/workers Took 206.35ms
+Finish [GET] /admin/workers Took 67.30ms
+Finish [GET] /admin/workers Took 69.50ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/86 Took 31.80ms
+Finish [GET] /admin/workers/86 Took 27.76ms
+Finish [GET] /admin/workers Took 64.57ms
+Finish [GET] /admin/workers/86 Took 19.78ms
+Finish [GET] /admin/workers/new Took 67.98ms
+Finish [POST] /admin/workers Took 228.85ms
+Finish [GET] /admin/workers Took 63.76ms
+Finish [GET] /admin/workers Took 92.79ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 88.81ms
+Finish [GET] /admin/workers/87 Took 43.96ms
+Finish [GET] /admin/workers/87 Took 38.84ms
+Finish [PUT] /admin/workers/87 Took 109.88ms
+Finish [GET] /admin/workers Took 70.86ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 65.74ms
+Finish [GET] /admin/workers/87 Took 39.38ms
+Finish [GET] /admin/workers Took 66.65ms
+Finish [GET] /admin/workers/87 Took 36.20ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 66.75ms
+Finish [GET] /admin/workers/87 Took 38.26ms
+Finish [GET] /admin/workers/87 Took 37.16ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/87 Took 41.23ms
+Finish [PUT] /admin/workers/87 Took 217.11ms
+Finish [GET] /admin/workers Took 69.93ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 68.71ms
+Finish [GET] /admin/workers/87 Took 39.97ms
+Finish [PUT] /admin/workers/87 Took 168.87ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 87.54ms
+Finish [GET] /admin/workers/87 Took 42.93ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 70.93ms
+Finish [GET] /admin/workers/87 Took 45.53ms
+Finish [PUT] /admin/workers/87 Took 192.08ms
+Finish [GET] /admin/workers Took 71.52ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 72.96ms
+Finish [GET] /admin/workers/87 Took 53.14ms
+Finish [PUT] /admin/workers/87 Took 125.08ms
+Finish [GET] /admin/workers Took 73.52ms
+Finish [GET] /admin/workers/87 Took 45.92ms
+Finish [GET] /admin/workers/87 Took 37.86ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/87 Took 43.77ms
+Finish [PUT] /admin/workers/87 Took 259.22ms
+Finish [GET] /admin/workers Took 76.15ms
+Finish [GET] /admin/workers/87 Took 45.79ms
+Finish [GET] /admin/workers/87 Took 46.07ms
+Finish [PUT] /admin/workers/87 Took 326.57ms
+Finish [GET] /admin/workers Took 71.44ms
+Finish [GET] /admin/workers/87 Took 39.76ms
+Finish [PUT] /admin/workers/87 Took 325.83ms
+Finish [GET] /admin/workers Took 67.99ms
+Finish [GET] /admin/workers/87 Took 43.80ms
+Finish [PUT] /admin/workers/87 Took 274.94ms
+Finish [GET] /admin/workers Took 83.29ms
+Finish [GET] /admin/workers/87 Took 84.92ms
+Finish [PUT] /admin/workers/87 Took 250.38ms
+Finish [GET] /admin/workers Took 67.12ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/87 Took 49.77ms
+Finish [PUT] /admin/workers/87 Took 225.03ms
+Finish [GET] /admin/workers Took 71.98ms
+Finish [GET] /admin/workers/87 Took 50.19ms
+Finish [PUT] /admin/workers/87 Took 240.59ms
+Finish [GET] /admin/workers Took 72.82ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/87 Took 45.80ms
+Finish [PUT] /admin/workers/87 Took 220.32ms
+http: panic serving 127.0.0.1:41999: runtime error: invalid memory address or nil pointer dereference
+goroutine 25 [running]:
+net/http.(*conn).serve.func1(0xc42065e680)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420fa3f00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420fa3f00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc421026d90)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc421026d90)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421026d90, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc421026d90)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421026d90, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc421026d90)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421026d90, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc42102d860, 0xc4200c12c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc42102d860, 0xc4200c12c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc42102d860, 0xc4200c12c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42065e680, 0xe04e00, 0xc420679580)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 91.71ms
+http: panic serving 127.0.0.1:42000: runtime error: invalid memory address or nil pointer dereference
+goroutine 72 [running]:
+net/http.(*conn).serve.func1(0xc42102a480)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc42067c200, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc42067c200, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc421026070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc421026070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421026070, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc421026070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421026070, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc421026070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421026070, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc42100a000, 0xc4200c11d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc42100a000, 0xc4200c11d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc42100a000, 0xc4200c11d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42102a480, 0xe04e00, 0xc4206b4e40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 73.26ms
+http: panic serving 127.0.0.1:42001: runtime error: invalid memory address or nil pointer dereference
+goroutine 73 [running]:
+net/http.(*conn).serve.func1(0xc42102a980)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc42023e400, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc42023e400, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc4203751f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc4203751f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4203751f0, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc4203751f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4203751f0, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc4203751f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4203751f0, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc42100bba0, 0xc4200c14a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc42100bba0, 0xc4200c14a0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc42100bba0, 0xc4200c14a0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42102a980, 0xe04e00, 0xc4206b5840)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [GET] /admin/workers Took 69.58ms
+Finish [GET] /admin/workers/87 Took 40.30ms
+Finish [GET] /admin/workers/87 Took 43.19ms
+Finish [PUT] /admin/workers/87 Took 67.72ms
+http: panic serving 127.0.0.1:42005: runtime error: invalid memory address or nil pointer dereference
+goroutine 78 [running]:
+net/http.(*conn).serve.func1(0xc420688080)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420242200, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420242200, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc420139420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420139420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420139420, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc420139420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420139420, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc420139420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420139420, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc420dc0a90, 0xc4200c13b0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc420dc0a90, 0xc4200c13b0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc420dc0a90, 0xc4200c13b0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420688080, 0xe04e00, 0xc42061c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 149.60ms
+http: panic serving 127.0.0.1:42003: runtime error: invalid memory address or nil pointer dereference
+goroutine 134 [running]:
+net/http.(*conn).serve.func1(0xc4206c7c00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420118000, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420118000, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc420f14f50)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420f14f50)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420f14f50, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc420f14f50)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420f14f50, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc420f14f50)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420f14f50, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc420fbb2b0, 0xc420fac000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc420fbb2b0, 0xc420fac000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc420fbb2b0, 0xc420fac000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc4206c7c00, 0xe04e00, 0xc420678f80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 66.29ms
+http: panic serving 127.0.0.1:42004: runtime error: invalid memory address or nil pointer dereference
+goroutine 77 [running]:
+net/http.(*conn).serve.func1(0xc420688000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420d54c00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420d54c00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc42011acb0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42011acb0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42011acb0, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc42011acb0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42011acb0, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc42011acb0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42011acb0, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc42107cf70, 0xc420fac0f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc42107cf70, 0xc420fac0f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc42107cf70, 0xc420fac0f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420688000, 0xe04e00, 0xc42061c100)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 116.25ms
+http: panic serving 127.0.0.1:42006: runtime error: invalid memory address or nil pointer dereference
+goroutine 135 [running]:
+net/http.(*conn).serve.func1(0xc4206c7c80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420aa5500, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420aa5500, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc42122f7a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42122f7a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42122f7a0, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc42122f7a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42122f7a0, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc42122f7a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42122f7a0, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc4211dd380, 0xc420bd65a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc4211dd380, 0xc420bd65a0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc4211dd380, 0xc420bd65a0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc4206c7c80, 0xe04e00, 0xc4206790c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 66.33ms
+http: panic serving 127.0.0.1:42002: runtime error: invalid memory address or nil pointer dereference
+goroutine 74 [running]:
+net/http.(*conn).serve.func1(0xc42102ae80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420ee7e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420ee7e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc420c4f8f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420c4f8f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420c4f8f0, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc420c4f8f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420c4f8f0, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc420c4f8f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420c4f8f0, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc4211bf790, 0xc4200c1e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc4211bf790, 0xc4200c1e00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc4211bf790, 0xc4200c1e00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42102ae80, 0xe04e00, 0xc4202be280)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 99.47ms
+http: panic serving 127.0.0.1:42007: runtime error: invalid memory address or nil pointer dereference
+goroutine 79 [running]:
+net/http.(*conn).serve.func1(0xc420688100)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc420ee6c00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc420ee6c00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc42122e1c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42122e1c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42122e1c0, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc42122e1c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42122e1c0, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc42122e1c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42122e1c0, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc420bcda00, 0xc4200c1d10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc420bcda00, 0xc4200c1d10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc420bcda00, 0xc4200c1d10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420688100, 0xe04e00, 0xc42061c300)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 66.05ms
+http: panic serving 127.0.0.1:42008: runtime error: invalid memory address or nil pointer dereference
+goroutine 182 [running]:
+net/http.(*conn).serve.func1(0xc420db0680)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6b980, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc42061d280, 0xe09360, 0xc42067ce00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420627d70, 0xe09360, 0xc42067ce00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420627d70, 0xc421026310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc421026310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421026310, 0xc4206eb720)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb10981, 0xa, 0xc4206cf140, 0xc4206eb720, 0xc421026310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421026310, 0xc4206eb700)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb14d98, 0xf, 0xb73ef8, 0xc4206eb700, 0xc421026310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421026310, 0xc4206ebb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4206340b0, 0xe04500, 0xc42107f1e0, 0xc420fac3c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206afe60, 0xe04500, 0xc42107f1e0, 0xc420fac3c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42065e600, 0xe04500, 0xc42107f1e0, 0xc420fac3c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420db0680, 0xe04e00, 0xc420011180)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 117.98ms
+Finish [GET] /admin/workers Took 78.82ms
+Finish [GET] /admin/workers/87 Took 46.83ms
+Finish [PUT] /admin/workers/87 Took 216.11ms
+Finish [GET] /admin/workers Took 64.73ms
+Finish [GET] /admin/workers/87 Took 40.84ms
+Finish [PUT] /admin/workers/87 Took 263.63ms
+Finish [GET] /admin/workers Took 76.90ms
+Finish [GET] /admin/workers/87 Took 41.77ms
+Finish [GET] /admin/workers/new Took 62.88ms
+Finish [GET] /admin/users Took 170.33ms
+Finish [GET] /admin/users/new Took 87.64ms
+Finish [GET] /admin/categories Took 381.93ms
+Finish [GET] /admin/categories/new Took 71.93ms
+Finish [GET] /admin/workers Took 78.15ms
+Finish [GET] /admin/workers/new Took 65.25ms
+Finish [GET] /admin/workers/87 Took 40.86ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 76.83ms
+Finish [GET] /admin/workers/new Took 73.21ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 70.71ms
+Finish [GET] /admin/workers/87 Took 39.82ms
+Finish [GET] /admin/workers/87 Took 43.30ms
+Finish [GET] /admin/publish Took 257.42ms
+Finish [GET] /admin/categories Took 111.90ms
+Finish [GET] /admin/categories/new Took 46.99ms
+Finish [GET] /admin/users Took 40.72ms
+Finish [GET] /admin/users/new Took 43.42ms
+Finish [GET] /admin/workers Took 86.79ms
+Finish [GET] /admin/workers/87 Took 39.58ms
+Finish [PUT] /admin/workers/87 Took 165.31ms
+Finish [GET] /admin/workers Took 102.05ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/87 Took 48.47ms
+Finish [PUT] /admin/workers/87 Took 110.40ms
+Finish [GET] /admin/workers Took 76.14ms
+Finish [GET] /admin/workers/87 Took 42.86ms
+Finish [GET] /admin/workers/87 Took 38.64ms
+Finish [PUT] /admin/workers/87 Took 219.56ms
+http: panic serving 127.0.0.1:42597: runtime error: invalid memory address or nil pointer dereference
+goroutine 159 [running]:
+net/http.(*conn).serve.func1(0xc420d08a80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420688a00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420688a00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc420cfc000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420cfc000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420cfc000, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc420cfc000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420cfc000, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc420cfc000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420cfc000, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420eb2680, 0xc420be80f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420eb2680, 0xc420be80f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420eb2680, 0xc420be80f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420d08a80, 0xe05e00, 0xc420131a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 74.55ms
+http: panic serving 127.0.0.1:42640: runtime error: invalid memory address or nil pointer dereference
+goroutine 220 [running]:
+net/http.(*conn).serve.func1(0xc42067e980)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420378000, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420378000, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc420372a80)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420372a80)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420372a80, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc420372a80)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420372a80, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc420372a80)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420372a80, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420decb60, 0xc420be8780)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420decb60, 0xc420be8780)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420decb60, 0xc420be8780)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42067e980, 0xe05e00, 0xc42065d640)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 108.94ms
+http: panic serving 127.0.0.1:42641: runtime error: invalid memory address or nil pointer dereference
+goroutine 221 [running]:
+net/http.(*conn).serve.func1(0xc42067f600)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420234400, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420234400, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc42036ff10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42036ff10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42036ff10, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc42036ff10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42036ff10, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc42036ff10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42036ff10, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420dedad0, 0xc420be8a50)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420dedad0, 0xc420be8a50)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420dedad0, 0xc420be8a50)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42067f600, 0xe05e00, 0xc4203c0ac0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 79.25ms
+http: panic serving 127.0.0.1:42650: runtime error: invalid memory address or nil pointer dereference
+goroutine 224 [running]:
+net/http.(*conn).serve.func1(0xc42023e400)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420478900, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420478900, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc42021cb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42021cb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42021cb60, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc42021cb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42021cb60, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc42021cb60)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42021cb60, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420cb3930, 0xc4200c1e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420cb3930, 0xc4200c1e00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420cb3930, 0xc4200c1e00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42023e400, 0xe05e00, 0xc42021a040)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 64.78ms
+http: panic serving 127.0.0.1:42652: runtime error: invalid memory address or nil pointer dereference
+goroutine 225 [running]:
+net/http.(*conn).serve.func1(0xc42023e780)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420623600, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420623600, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc42015efc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42015efc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42015efc0, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc42015efc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42015efc0, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc42015efc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42015efc0, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420c2be10, 0xc4200c1d10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420c2be10, 0xc4200c1d10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420c2be10, 0xc4200c1d10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42023e780, 0xe05e00, 0xc42021a540)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 66.28ms
+http: panic serving 127.0.0.1:42651: runtime error: invalid memory address or nil pointer dereference
+goroutine 187 [running]:
+net/http.(*conn).serve.func1(0xc420296000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420b40900, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420b40900, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc4202c0620)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc4202c0620)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4202c0620, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc4202c0620)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4202c0620, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc4202c0620)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4202c0620, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420d3f110, 0xc4200c1770)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420d3f110, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420d3f110, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420296000, 0xe05e00, 0xc420262300)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 74.06ms
+http: panic serving 127.0.0.1:42654: runtime error: invalid memory address or nil pointer dereference
+goroutine 226 [running]:
+net/http.(*conn).serve.func1(0xc42023e800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc42060ae00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc42060ae00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc421018150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc421018150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421018150, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc421018150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421018150, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc421018150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421018150, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420fd92b0, 0xc4200c1a40)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420fd92b0, 0xc4200c1a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420fd92b0, 0xc4200c1a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42023e800, 0xe05e00, 0xc42021a640)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 115.88ms
+http: panic serving 127.0.0.1:42653: runtime error: invalid memory address or nil pointer dereference
+goroutine 188 [running]:
+net/http.(*conn).serve.func1(0xc420296100)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420688d00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420688d00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc420dce070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420dce070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420dce070, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc420dce070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420dce070, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc420dce070)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420dce070, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420f92dd0, 0xc4200c1950)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420f92dd0, 0xc4200c1950)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420f92dd0, 0xc4200c1950)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420296100, 0xe05e00, 0xc420262400)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 66.17ms
+http: panic serving 127.0.0.1:42655: runtime error: invalid memory address or nil pointer dereference
+goroutine 243 [running]:
+net/http.(*conn).serve.func1(0xc42100f380)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420478e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420478e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc42035a0e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42035a0e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42035a0e0, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc42035a0e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42035a0e0, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc42035a0e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42035a0e0, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420f52750, 0xc4200c1c20)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420f52750, 0xc4200c1c20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420f52750, 0xc4200c1c20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42100f380, 0xe05e00, 0xc42065cc40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/87 Took 72.60ms
+http: panic serving 127.0.0.1:42657: runtime error: invalid memory address or nil pointer dereference
+goroutine 244 [running]:
+net/http.(*conn).serve.func1(0xc42100f980)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420611380, 0xe0a360, 0xc420378e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420628660, 0xe0a360, 0xc420378e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420628660, 0xc4202f6230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc4202f6230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4202f6230, 0xc4206ef2e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc4206b4e50, 0xc4206ef2e0, 0xc4202f6230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4202f6230, 0xc4206ef2c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206ef2c0, 0xc4202f6230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4202f6230, 0xc4206ee860)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42061ebb0, 0xe05500, 0xc420f53e10, 0xc420a9a000)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206be750, 0xe05500, 0xc420f53e10, 0xc420a9a000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42067e300, 0xe05500, 0xc420f53e10, 0xc420a9a000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42100f980, 0xe05e00, 0xc42065d900)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [PUT] /admin/workers/87 Took 74.58ms
+http: panic serving 127.0.0.1:42671: runtime error: invalid memory address or nil pointer dereference
+goroutine 19 [running]:
+net/http.(*conn).serve.func1(0xc420628900)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420240c40, 0xe0a360, 0xc42065fc00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205f15f0, 0xe0a360, 0xc42065fc00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc4205f15f0, 0xc42035ae00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc42035ae00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42035ae00, 0xc4206a9040)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a21, 0xa, 0xc420690cc0, 0xc4206a9040, 0xc42035ae00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42035ae00, 0xc4206a9020)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e38, 0xf, 0xb74fb8, 0xc4206a9020, 0xc42035ae00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42035ae00, 0xc4206b7960)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205ed810, 0xe05500, 0xc42062cdd0, 0xc4200c0c30)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206836e0, 0xe05500, 0xc42062cdd0, 0xc4200c0c30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420628880, 0xe05500, 0xc42062cdd0, 0xc4200c0c30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420628900, 0xe05e00, 0xc4202417c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [GET] /admin/workers/new Took 419.21ms
+Finish [POST] /admin/workers Took 553.93ms
+Finish [GET] /admin/workers Took 238.16ms
+Finish [GET] /admin/workers Took 94.22ms
+Finish [GET] /admin/workers/88 Took 88.33ms
+Finish [DELETE] /admin/workers/88 Took 402.46ms
+Finish [GET] /admin/workers/88 Took 27.14ms
+Finish [GET] /admin/workers Took 78.79ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 67.64ms
+Finish [POST] /admin/workers Took 226.43ms
+Finish [GET] /admin/workers Took 93.53ms
+Finish [GET] /admin/workers Took 113.09ms
+Finish [GET] /admin/workers/89 Took 38.40ms
+Finish [GET] /admin/publish Took 90.34ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 96.58ms
+Finish [GET] /admin/workers/new Took 59.15ms
+Finish [POST] /admin/workers Took 739.06ms
+Finish [GET] /admin/workers/89 Took 41.64ms
+Finish [PUT] /admin/workers/89 Took 101.61ms
+http: panic serving 127.0.0.1:42889: runtime error: invalid memory address or nil pointer dereference
+goroutine 97 [running]:
+net/http.(*conn).serve.func1(0xc420c07000)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420dcee00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420dcee00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc420c33c70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420c33c70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420c33c70, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc420c33c70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420c33c70, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc420c33c70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420c33c70, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420fd5ad0, 0xc420b680f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420fd5ad0, 0xc420b680f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420fd5ad0, 0xc420b680f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420c07000, 0xe05e00, 0xc4200c6ec0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 65.51ms
+http: panic serving 127.0.0.1:42885: runtime error: invalid memory address or nil pointer dereference
+goroutine 29 [running]:
+net/http.(*conn).serve.func1(0xc42064ac00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420f34c00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420f34c00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc420f38150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420f38150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420f38150, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc420f38150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420f38150, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc420f38150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420f38150, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420f36d00, 0xc420b683c0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420f36d00, 0xc420b683c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420f36d00, 0xc420b683c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42064ac00, 0xe05e00, 0xc42064d500)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 66.35ms
+http: panic serving 127.0.0.1:42888: runtime error: invalid memory address or nil pointer dereference
+goroutine 96 [running]:
+net/http.(*conn).serve.func1(0xc420c06f80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420a7cc00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420a7cc00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc4211180e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc4211180e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4211180e0, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc4211180e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4211180e0, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc4211180e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4211180e0, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420a85040, 0xc420b682d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420a85040, 0xc420b682d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420a85040, 0xc420b682d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420c06f80, 0xe05e00, 0xc4200c6dc0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 72.62ms
+http: panic serving 127.0.0.1:42890: runtime error: invalid memory address or nil pointer dereference
+goroutine 48 [running]:
+net/http.(*conn).serve.func1(0xc420c77500)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420aa0000, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420aa0000, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc420d79ce0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420d79ce0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420d79ce0, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc420d79ce0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420d79ce0, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc420d79ce0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420d79ce0, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc4210660d0, 0xc4200c1770)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc4210660d0, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc4210660d0, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420c77500, 0xe05e00, 0xc42068fa00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 99.52ms
+http: panic serving 127.0.0.1:42887: runtime error: invalid memory address or nil pointer dereference
+goroutine 47 [running]:
+net/http.(*conn).serve.func1(0xc420c77480)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420296400, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420296400, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc420facfc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420facfc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420facfc0, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc420facfc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420facfc0, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc420facfc0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420facfc0, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420a31ad0, 0xc4200c1b30)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420a31ad0, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420a31ad0, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420c77480, 0xe05e00, 0xc42068f900)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 133.01ms
+http: panic serving 127.0.0.1:42886: runtime error: invalid memory address or nil pointer dereference
+goroutine 46 [running]:
+net/http.(*conn).serve.func1(0xc420c77400)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc42037ad00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc42037ad00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc420f90150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc420f90150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420f90150, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc420f90150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420f90150, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc420f90150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420f90150, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420fead00, 0xc4200c1a40)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420fead00, 0xc4200c1a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420fead00, 0xc4200c1a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420c77400, 0xe05e00, 0xc42068f800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 99.36ms
+http: panic serving 127.0.0.1:42893: runtime error: invalid memory address or nil pointer dereference
+goroutine 228 [running]:
+net/http.(*conn).serve.func1(0xc420cdb480)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc420261240, 0xe0a360, 0xc420475200, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc420603b00, 0xe0a360, 0xc420475200, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.Update(0xc420603b00, 0xc421119180)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:48 +0x644
+github.com/qor/worker.(workerController).Update-fm(0xc421119180)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:180 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421119180, 0xc4206e3440)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc4206aed80, 0xc4206e3440, 0xc421119180)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421119180, 0xc4206e3420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e3f, 0xf, 0xb75018, 0xc4206e3420, 0xc421119180)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421119180, 0xc4206e2660)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc420610580, 0xe05500, 0xc420c7c000, 0xc420b68ff0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc420697bf0, 0xe05500, 0xc420c7c000, 0xc420b68ff0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ab80, 0xe05500, 0xc420c7c000, 0xc420b68ff0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420cdb480, 0xe05e00, 0xc421072f80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [PUT] /admin/workers/89 Took 178.73ms
+Finish [GET] /admin/workers Took 93.54ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/90 Took 44.89ms
+Finish [PUT] /admin/workers/90 Took 113.84ms
+Finish [GET] /admin/workers Took 105.61ms
+Finish [GET] /admin/workers/90 Took 37.09ms
+Finish [PUT] /admin/workers/90 Took 115.21ms
+Finish [GET] /admin/workers Took 86.56ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/90 Took 45.36ms
+Finish [PUT] /admin/workers/90 Took 94.95ms
+Finish [GET] /admin/workers Took 86.75ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/90 Took 44.28ms
+Finish [PUT] /admin/workers/90 Took 68.40ms
+Finish [GET] /admin/workers Took 113.37ms
+Finish [GET] /admin/workers/87 Took 49.84ms
+Finish [PUT] /admin/workers/87 Took 55.12ms
+Finish [GET] /admin/workers Took 122.87ms
+Finish [GET] /admin/workers/90 Took 39.32ms
+Finish [GET] /admin/workers/87 Took 40.75ms
+Finish [GET] /admin/workers/90 Took 39.24ms
+Finish [PUT] /admin/workers/90 Took 63.68ms
+Finish [GET] /admin/workers Took 87.90ms
+Finish [GET] /admin/workers/90 Took 49.67ms
+Finish [PUT] /admin/workers/90 Took 49.70ms
+Finish [GET] /admin/workers Took 105.64ms
+Finish [GET] /admin/workers/90 Took 42.43ms
+Finish [PUT] /admin/workers/90 Took 51.35ms
+Finish [GET] /admin/workers Took 95.20ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/90 Took 52.24ms
+3333
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [PUT] /admin/workers/90 Took 4.43ms
+Finish [GET] /admin/workers Took 107.61ms
+Finish [GET] /admin/workers/90 Took 44.75ms
+Finish [PUT] /admin/workers/90 Took 2.35ms
+Finish [GET] /admin/workers Took 107.88ms
+Finish [GET] /admin/workers/90 Took 47.44ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 94.70ms
+Finish [GET] /admin/workers/90 Took 39.20ms
+222222222222222222
+Finish [PUT] /admin/workers/90 Took 3.52ms
+Finish [GET] /admin/workers Took 99.02ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 100.37ms
+Finish [GET] /admin/workers/90 Took 39.73ms
+Finish [PUT] /admin/workers/90 Took 52.81ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 97.89ms
+Finish [GET] /admin/workers/90 Took 41.08ms
+Finish [PUT] /admin/workers/90 Took 53.66ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 106.56ms
+Finish [GET] /admin/workers/90 Took 44.83ms
+Finish [PUT] /admin/workers/90 Took 53.60ms
+Finish [GET] /admin/workers/new Took 62.20ms
+Finish [POST] /admin/workers Took 163.95ms
+http: panic serving 127.0.0.1:43150: runtime error: invalid memory address or nil pointer dereference
+goroutine 102 [running]:
+net/http.(*conn).serve.func1(0xc4211d6880)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420234b00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420234b00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc4200e4e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc4200e4e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4200e4e00, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc4200e4e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4200e4e00, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc4200e4e00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4200e4e00, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc420de96c0, 0xc4200c10e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc420de96c0, 0xc4200c10e0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc420de96c0, 0xc4200c10e0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc4211d6880, 0xe05e00, 0xc420242480)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 65.93ms
+http: panic serving 127.0.0.1:43152: runtime error: invalid memory address or nil pointer dereference
+goroutine 94 [running]:
+net/http.(*conn).serve.func1(0xc420e9d900)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420dd8700, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420dd8700, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc420f8c4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc420f8c4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420f8c4d0, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc420f8c4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420f8c4d0, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc420f8c4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420f8c4d0, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc420ddc0d0, 0xc4200c1770)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc420ddc0d0, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc420ddc0d0, 0xc4200c1770)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420e9d900, 0xe05e00, 0xc420011a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 65.95ms
+http: panic serving 127.0.0.1:43151: runtime error: invalid memory address or nil pointer dereference
+goroutine 93 [running]:
+net/http.(*conn).serve.func1(0xc420e9d880)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc42100a600, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc42100a600, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc421146e70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc421146e70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421146e70, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc421146e70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421146e70, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc421146e70)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421146e70, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc42100cb60, 0xc4211ded20)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc42100cb60, 0xc4211ded20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc42100cb60, 0xc4211ded20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420e9d880, 0xe05e00, 0xc4200db240)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 59.52ms
+http: panic serving 127.0.0.1:43148: runtime error: invalid memory address or nil pointer dereference
+goroutine 9 [running]:
+net/http.(*conn).serve.func1(0xc42064ec80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc4205e8e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc4205e8e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc420d48150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc420d48150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420d48150, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc420d48150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420d48150, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc420d48150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420d48150, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc420d9cea0, 0xc4211de2d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc420d9cea0, 0xc4211de2d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc420d9cea0, 0xc4211de2d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42064ec80, 0xe05e00, 0xc420671500)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 118.71ms
+http: panic serving 127.0.0.1:43153: runtime error: invalid memory address or nil pointer dereference
+goroutine 95 [running]:
+net/http.(*conn).serve.func1(0xc420e9d980)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420668e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420668e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc421146150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc421146150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421146150, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc421146150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421146150, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc421146150)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421146150, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc42101ed00, 0xc4200c0d20)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc42101ed00, 0xc4200c0d20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc42101ed00, 0xc4200c0d20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420e9d980, 0xe05e00, 0xc4200db440)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 177.97ms
+http: panic serving 127.0.0.1:43149: runtime error: invalid memory address or nil pointer dereference
+goroutine 92 [running]:
+net/http.(*conn).serve.func1(0xc420e9d800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420476d00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420476d00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc420f8d5e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc420f8d5e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420f8d5e0, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc420f8d5e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420f8d5e0, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc420f8d5e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420f8d5e0, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc420de9930, 0xc4200c1680)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc420de9930, 0xc4200c1680)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc420de9930, 0xc4200c1680)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420e9d800, 0xe05e00, 0xc4200db0c0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 91.13ms
+http: panic serving 127.0.0.1:43155: runtime error: invalid memory address or nil pointer dereference
+goroutine 220 [running]:
+net/http.(*conn).serve.func1(0xc42114f800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420378c00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420378c00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc42037fab0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc42037fab0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42037fab0, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc42037fab0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42037fab0, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc42037fab0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42037fab0, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc4210cba00, 0xc4200c1b30)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc4210cba00, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc4210cba00, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42114f800, 0xe05e00, 0xc4205ecb00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 68.92ms
+http: panic serving 127.0.0.1:43156: runtime error: invalid memory address or nil pointer dereference
+goroutine 234 [running]:
+net/http.(*conn).serve.func1(0xc42064e380)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6c9a0, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205edcc0, 0xe0a360, 0xc420379e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc42060a480, 0xe0a360, 0xc420379e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc42060a480, 0xc4202e7420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x5e7
+github.com/qor/worker.(workerController).AddJob-fm(0xc4202e7420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4202e7420, 0xc4206cd520)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11a28, 0xa, 0xc42069ac00, 0xc4206cd520, 0xc4202e7420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4202e7420, 0xc4206cd4e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15e49, 0xf, 0xb74ff8, 0xc4206cd4e0, 0xc4202e7420)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4202e7420, 0xc4206ccd00)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc4205fc840, 0xe05500, 0xc420b5fba0, 0xc4211df1d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc4206a6570, 0xe05500, 0xc420b5fba0, 0xc4211df1d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc42064ec00, 0xe05500, 0xc420b5fba0, 0xc4211df1d0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc42064e380, 0xe05e00, 0xc420385e80)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [GET] /admin/workers/new Took 57.65ms
+http: multiple response.WriteHeader calls
+Finish [POST] /admin/workers Took 98.81ms
+Finish [GET] /admin/workers Took 178.69ms
+Finish [GET] /admin/workers Took 163.07ms
+Finish [GET] /admin/workers/99 Took 42.57ms
+Finish [PUT] /admin/workers/99 Took 47.99ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 143.30ms
+Finish [GET] /admin/workers/new Took 67.22ms
+Finish [POST] /admin/workers Took 218.87ms
+http: panic serving 127.0.0.1:43191: runtime error: invalid memory address or nil pointer dereference
+goroutine 136 [running]:
+net/http.(*conn).serve.func1(0xc421016880)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc42037ae00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc42037ae00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc421004230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc421004230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc421004230, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc421004230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc421004230, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc421004230)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc421004230, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420cec9c0, 0xc4200c0e10)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420cec9c0, 0xc4200c0e10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420cec9c0, 0xc4200c0e10)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc421016880, 0xe06e00, 0xc42021b280)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 82.31ms
+http: panic serving 127.0.0.1:43193: runtime error: invalid memory address or nil pointer dereference
+goroutine 129 [running]:
+net/http.(*conn).serve.func1(0xc420f63e00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc420118a00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc420118a00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc420babea0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc420babea0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc420babea0, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc420babea0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc420babea0, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc420babea0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc420babea0, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420d57e10, 0xc4200c1c20)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420d57e10, 0xc4200c1c20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420d57e10, 0xc4200c1c20)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420f63e00, 0xe06e00, 0xc420170a40)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 100.76ms
+http: panic serving 127.0.0.1:43192: runtime error: invalid memory address or nil pointer dereference
+goroutine 128 [running]:
+net/http.(*conn).serve.func1(0xc420f63480)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc420f2cb00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc420f2cb00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc42030c310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc42030c310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42030c310, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc42030c310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42030c310, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc42030c310)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42030c310, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420c285b0, 0xc4200c1b30)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420c285b0, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420c285b0, 0xc4200c1b30)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420f63480, 0xe06e00, 0xc420170200)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 58.52ms
+http: panic serving 127.0.0.1:43190: runtime error: invalid memory address or nil pointer dereference
+goroutine 127 [running]:
+net/http.(*conn).serve.func1(0xc420f63400)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc42000bf00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc42000bf00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc4203802a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc4203802a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4203802a0, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc4203802a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4203802a0, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc4203802a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4203802a0, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420dbaf70, 0xc420b66780)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420dbaf70, 0xc420b66780)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420dbaf70, 0xc420b66780)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420f63400, 0xe06e00, 0xc420170080)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 57.18ms
+http: panic serving 127.0.0.1:43188: runtime error: invalid memory address or nil pointer dereference
+goroutine 34 [running]:
+net/http.(*conn).serve.func1(0xc420642b00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc420b5be00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc420b5be00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc4202b35e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc4202b35e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4202b35e0, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc4202b35e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4202b35e0, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc4202b35e0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4202b35e0, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420d8c680, 0xc420b66960)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420d8c680, 0xc420b66960)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420d8c680, 0xc420b66960)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc420642b00, 0xe06e00, 0xc42063f500)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 82.77ms
+http: panic serving 127.0.0.1:43189: runtime error: invalid memory address or nil pointer dereference
+goroutine 135 [running]:
+net/http.(*conn).serve.func1(0xc421016800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc420b39d00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc420b39d00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc42020e380)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc42020e380)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc42020e380, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc42020e380)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc42020e380, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc42020e380)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc42020e380, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420fcda00, 0xc420b66870)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420fcda00, 0xc420b66870)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420fcda00, 0xc420b66870)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc421016800, 0xe06e00, 0xc42021b140)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 66.25ms
+http: panic serving 127.0.0.1:43194: runtime error: invalid memory address or nil pointer dereference
+goroutine 214 [running]:
+net/http.(*conn).serve.func1(0xc4202eec00)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1467 +0x12a
+panic(0xa6ca40, 0xc42000c200)
+	/home/drew/.gvm/gos/go1.7beta1/src/runtime/panic.go:458 +0x243
+github.com/qor/worker.(*Cron).Add(0xc4205f3680, 0xe0b360, 0xc420e60e00, 0x0, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/cron.go:127 +0x5dd
+github.com/qor/worker.(*Worker).AddJob(0xc4205fbc20, 0xe0b360, 0xc420e60e00, 0x1, 0x0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:229 +0x4a
+github.com/qor/worker.workerController.AddJob(0xc4205fbc20, 0xc4202dc4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/controller.go:86 +0x7e0
+github.com/qor/worker.(workerController).AddJob-fm(0xc4202dc4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/worker/worker.go:179 +0x3a
+github.com/qor/admin.(*Admin).compile.func2(0xc4202dc4d0, 0xc4206d95a0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:337 +0x499
+github.com/qor/admin.Middleware.Next(0xb11b68, 0xa, 0xc4206a1150, 0xc4206d95a0, 0xc4202dc4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/admin.(*Admin).compile.func1(0xc4202dc4d0, 0xc4206d9580)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:297 +0x1de
+github.com/qor/admin.Middleware.Next(0xb15f89, 0xf, 0xb75178, 0xc4206d9580, 0xc4202dc4d0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:38 +0x48
+github.com/qor/l10n.(*Locale).ConfigureQorResource.func5(0xc4202dc4d0, 0xc4206d8740)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/l10n/l10n.go:200 +0x187
+github.com/qor/admin.(*Admin).ServeHTTP(0xc42060a0b0, 0xe06500, 0xc420cf1a00, 0xc420ff00f0)
+	/work/www/bunny_api/go-category-qor/src/github.com/qor/admin/route.go:386 +0x346
+net/http.(*ServeMux).ServeHTTP(0xc42068fd10, 0xe06500, 0xc420cf1a00, 0xc420ff00f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1998 +0x7f
+net/http.serverHandler.ServeHTTP(0xc420642a80, 0xe06500, 0xc420cf1a00, 0xc420ff00f0)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2178 +0x7d
+net/http.(*conn).serve(0xc4202eec00, 0xe06e00, 0xc420ff4800)
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:1555 +0x4b7
+created by net/http.(*Server).Serve
+	/home/drew/.gvm/gos/go1.7beta1/src/net/http/server.go:2239 +0x44b
+Finish [POST] /admin/workers Took 132.26ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers/new Took 76.72ms
+Finish [POST] /admin/workers Took 109.65ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+Finish [GET] /admin/workers Took 159.57ms
+Finish [GET] /admin/workers/new Took 58.75ms
+---- 
+Finish [POST] /admin/workers Took 318.79ms
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> go-cat/app/controllers.HomeIndex (4 handlers)
+[GIN-debug] GET    /switch_locale            --> go-cat/app/controllers.SwitchLocale (4 handlers)
+----  -- &{Model:{ID:110 CreatedAt:2016-08-03 15:08:48.607689985 +0300 EEST UpdatedAt:2016-08-03 15:08:48.631118252 +0300 EEST DeletedAt:<nil>} Status:scheduled Progress:0 ProgressText: Log: ResultsTable:{Name: TableCells:[]} mutex:{state:0 sema:0} Job:0xc420013720 AuditedModel:{CreatedBy: UpdatedBy:} SerializableMeta:{Kind:Send Newsletter Value:{SerializedValue: OriginalValue:0xc420296e00}}}
+Finish [POST] /admin/workers Took 122.35ms
