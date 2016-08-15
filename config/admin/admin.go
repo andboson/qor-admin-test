@@ -32,7 +32,6 @@ func init() {
 
 	cat := Admin.AddResource(&models.Category{}, &admin.Config{
 		Menu: []string{"Product Management"},
-		//Themes:[]string{"category"},
 	})
 	cat.Meta(&admin.Meta{Name: "Parent", Type:"select_one",
 		FormattedValuer: func(cat interface{}, ctx *qor.Context) interface{} {
