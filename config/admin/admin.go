@@ -30,7 +30,10 @@ func init() {
 	dir := config.Filebox.AccessDir("/")
 	dir.SetPermission(roles.Allow(roles.Read, "admin"))
 
-	cat := Admin.AddResource(&models.Category{}, &admin.Config{Menu: []string{"Product Management"}})
+	cat := Admin.AddResource(&models.Category{}, &admin.Config{
+		Menu: []string{"Product Management"},
+		//Themes:[]string{"category"},
+	})
 	cat.Meta(&admin.Meta{Name: "Parent", Type:"select_one",
 		FormattedValuer: func(cat interface{}, ctx *qor.Context) interface{} {
 			var category = new(models.Category)
@@ -59,6 +62,8 @@ func init() {
 			return collectionValues
 		}})
 
+	//cat.GetAdmin().RegisterViewPath("github.com/andboson/qor-admin-test/app/views")
+	//cat.UseTheme("category")
 
 
 	// Add User

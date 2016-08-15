@@ -3,8 +3,6 @@ package auth
 import (
 	"github.com/justinas/nosurf"
 	"github.com/qor/i18n/inline_edit"
-	"github.com/qor/qor-example/config"
-	"github.com/qor/qor-example/config/i18n"
 	"gopkg.in/authboss.v0"
 	_ "gopkg.in/authboss.v0/auth"
 	_ "gopkg.in/authboss.v0/confirm"
@@ -15,6 +13,8 @@ import (
 	"net/smtp"
 	"os"
 	"regexp"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/config/i18n"
 )
 
 var (

@@ -3,9 +3,9 @@ package auth
 import (
 	"github.com/qor/admin"
 	"github.com/qor/qor"
-	"github.com/qor/qor-example/app/models"
 	"github.com/qor/roles"
 	"net/http"
+	"github.com/andboson/qor-admin-test/app/models"
 )
 
 func init() {

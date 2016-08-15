@@ -28,7 +28,7 @@ var Config = struct {
 }{}
 
 var (
-	Root    = os.Getenv("GOPATH") + "/src/go-cat"
+	Root    = os.Getenv("GOPATH") + "/src/github.com/andboson/qor-admin-test"
 	View    *render.Render
 	Filebox *filebox.Filebox
 )

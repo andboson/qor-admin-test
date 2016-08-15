@@ -1,10 +1,10 @@
 package auth
 
 import (
-	"github.com/qor/qor-example/app/models"
-	"github.com/qor/qor-example/db"
 	"gopkg.in/authboss.v0"
 	"log"
+	"github.com/andboson/qor-admin-test/app/models"
+	"github.com/andboson/qor-admin-test/db"
 )
 
 const	ADMIN_ROLE = "Admin"
