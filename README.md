@@ -6,22 +6,20 @@ This is an example application to show and explain features of [QOR](http://getq
 
 ```shell
 # Get example app
-$ go get -u go-cat
+$ go get -u github.com/andboson/qor-admin-test
 
 # Setup database
 $ mysql -uroot -p
 mysql> CREATE DATABASE qor_example;
 
+# Setup configs
+$ cp configs/database.example.yml configs/database.yml
+$ cp configs/smtp.example.yml configs/smtp.yml
+
 # Run Application
-$ cd $GOPATH/src/go-cat
 $ go run main.go
 ```
 
-#### Generate sample data
-
-```go
-$ go run db/seeds/main.go
-```
 
 ## Admin Management Interface
 
@@ -36,11 +34,6 @@ Online Demo Website: [demo.getqor.com/admin](http://demo.getqor.com/admin)
 Online Example APIs:
 
 * Users: [http://demo.getqor.com/api/users.json](http://demo.getqor.com/api/users.json)
-* User 1: [http://demo.getqor.com/api/users/1.json](http://demo.getqor.com/api/users/1.json)
-* Orders: [http://demo.getqor.com/api/orders.json](http://demo.getqor.com/api/orders.json)
-* Products: [http://demo.getqor.com/api/products.json](http://demo.getqor.com/api/products.json)
-* Product 1's ColorVariations [http://demo.getqor.com/api/products/1/color_variations.json](http://demo.getqor.com/api/products/1/color_variations.json)
-* Product 1's ColorVariation 1 [http://demo.getqor.com/api/products/1/color_variations/1.json](http://demo.getqor.com/api/products/1/color_variations/1.json)
 
 ## License
 
