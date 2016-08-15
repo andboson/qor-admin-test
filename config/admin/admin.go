@@ -31,32 +31,33 @@ func init() {
 	dir.SetPermission(roles.Allow(roles.Read, "admin"))
 
 	cat := Admin.AddResource(&models.Category{}, &admin.Config{Menu: []string{"Product Management"}})
-	cat.Meta(&admin.Meta{Name: "Parent", Type:"select_one", Valuer: func(cat interface{}, ctx *qor.Context) interface{} {
-		var category = new(models.Category)
-		current := cat.(*models.Category)
-		if current.ID == 0 {
-			return "--"
-		}
-
-		err := db.DB.Find(category, "id = ?", current.Parent).Error
-		if err != nil {
-			return "none"
-		}
-
-		return category.Name
-	}, Collection: func(value interface{}, context *qor.Context) [][]string {
-		var collectionValues = [][]string{{"0", "none"}}
-		var cats []*models.Category
-		current := value.(*models.Category)
-		db.DB.Find(&cats)
-		for _, cat := range cats {
-			if cat.ID == current.ID {
-				continue
+	cat.Meta(&admin.Meta{Name: "Parent", Type:"select_one",
+		FormattedValuer: func(cat interface{}, ctx *qor.Context) interface{} {
+			var category = new(models.Category)
+			current := cat.(*models.Category)
+			if current.ID == 0 {
+				return "--"
 			}
-			collectionValues = append(collectionValues, []string{fmt.Sprint(cat.ID), cat.Name})
-		}
-		return collectionValues
-	}})
+
+			err := db.DB.Find(category, "id = ?", int(current.Parent)).Error
+			if err != nil {
+				return "none"
+			}
+
+			return category.Name
+		}, Collection: func(value interface{}, context *qor.Context) [][]string {
+			var collectionValues = [][]string{{"0", "none"}}
+			var cats []*models.Category
+			current := value.(*models.Category)
+			db.DB.Find(&cats)
+			for _, cat := range cats {
+				if cat.ID == current.ID {
+					continue
+				}
+				collectionValues = append(collectionValues, []string{fmt.Sprint(cat.ID), cat.Name})
+			}
+			return collectionValues
+		}})
 
 
 

@@ -16,7 +16,6 @@ type Category struct {
 	l10n.Locale
 	publish.Status
 	sorting.Sorting  `json:"sort_id"`
-
 	Name         string    `json:"name"`
 	NameWithSlug slug.Slug    `l10n:"sync" json:"slug"`
 	Parent       uint   `l10n:"sync" json:"parent_id"`
