@@ -14,6 +14,7 @@ func init() {
 	AutoMigrate(&models.Category{})
 	AutoMigrate(&transition.StateChangeLog{})
 	AutoMigrate(&activity.QorActivity{})
+	AutoMigrate(&models.User{})
 }
 
 func AutoMigrate(values ...interface{}) {
