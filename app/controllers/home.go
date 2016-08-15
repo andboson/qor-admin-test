@@ -2,9 +2,9 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"go-cat/config"
-	"go-cat/config/admin"
-	"go-cat/config/auth"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/config/admin"
+	"github.com/andboson/qor-admin-test/config/auth"
 	"github.com/qor/seo"
 	"gopkg.in/authboss.v0"
 )

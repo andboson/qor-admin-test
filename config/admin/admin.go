@@ -7,12 +7,12 @@ import (
 	"github.com/qor/i18n/exchange_actions"
 	"github.com/qor/l10n/publish"
 	"github.com/qor/qor"
-	"go-cat/app/models"
-	"go-cat/config"
-	"go-cat/config/admin/bindatafs"
-	"go-cat/config/auth"
-	"go-cat/config/i18n"
-	"go-cat/db"
+	"github.com/andboson/qor-admin-test/app/models"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/config/admin/bindatafs"
+	"github.com/andboson/qor-admin-test/config/auth"
+	"github.com/andboson/qor-admin-test/config/i18n"
+	"github.com/andboson/qor-admin-test/db"
 	"github.com/qor/roles"
 )
 

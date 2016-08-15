@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	"github.com/qor/i18n/inline_edit"
-	"go-cat/config/i18n"
-	"go-cat/db"
+	"github.com/andboson/qor-admin-test/config/i18n"
+	"github.com/andboson/qor-admin-test/db"
 	"html/template"
 	"net/http"
 )

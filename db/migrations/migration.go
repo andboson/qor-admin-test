@@ -4,8 +4,8 @@ import (
 	"github.com/qor/activity"
 	"github.com/qor/media_library"
 	"github.com/qor/publish"
-	"go-cat/app/models"
-	"go-cat/db"
+	"github.com/andboson/qor-admin-test/app/models"
+	"github.com/andboson/qor-admin-test/db"
 	"github.com/qor/transition"
 )
 

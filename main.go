@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"net/http"
 
-	"go-cat/config"
-	"go-cat/config/admin"
-	"go-cat/config/api"
-	_ "go-cat/config/i18n"
-	"go-cat/config/routes"
-	_ "go-cat/db/migrations"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/config/admin"
+	"github.com/andboson/qor-admin-test/config/api"
+	_ "github.com/andboson/qor-admin-test/config/i18n"
+	"github.com/andboson/qor-admin-test/config/routes"
+	_ "github.com/andboson/qor-admin-test/db/migrations"
 )
 
 func main() {

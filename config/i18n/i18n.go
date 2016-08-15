@@ -4,8 +4,8 @@ import (
 	"github.com/qor/i18n"
 	"github.com/qor/i18n/backends/database"
 	"github.com/qor/i18n/backends/yaml"
-	"go-cat/config"
-	"go-cat/db"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/db"
 	"path/filepath"
 )
 

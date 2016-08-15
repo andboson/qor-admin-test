@@ -11,7 +11,7 @@ import (
 	"github.com/qor/l10n"
 	"github.com/qor/media_library"
 	"github.com/qor/publish"
-	"go-cat/config"
+	"github.com/andboson/qor-admin-test/config"
 	"github.com/qor/sorting"
 	"github.com/qor/validations"
 )

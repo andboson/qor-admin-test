@@ -6,10 +6,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/qor/qor"
-	"go-cat/app/controllers"
-	"go-cat/config"
-	"go-cat/config/auth"
-	"go-cat/db"
+	"github.com/andboson/qor-admin-test/app/controllers"
+	"github.com/andboson/qor-admin-test/config"
+	"github.com/andboson/qor-admin-test/config/auth"
+	"github.com/andboson/qor-admin-test/db"
 	"github.com/qor/qor/utils"
 )
 
