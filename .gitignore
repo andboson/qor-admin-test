@@ -44,4 +44,5 @@ public/assets/
 npm-debug.log
 
 config/*.yml
+!config/*example.yml
 .idea
